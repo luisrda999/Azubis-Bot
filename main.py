@@ -7,9 +7,9 @@ from PIL          import Image
 from io           import BytesIO
 from time         import sleep
 
-base_url     = "https://azubis.live/v1.0.php"
+base_url     = https://www.tiktok.com/@luis.rda?is_from_webapp=1&sender_device=pc
 base_headers = {
-    "host": "azubis.live",
+    "host": "Luis",
     "connection": "keep-alive",
     "sec-ch-ua": "\"Opera\";v=\"93\", \"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"107\"",
     "accept": "*/*",
@@ -25,7 +25,7 @@ base_headers = {
     "referer": "https://azubis.live/",
     "accept-language": "en-GB,en-US;q=0.9,en;q=0.8"
 }
-_link = input("tiktok link: ")
+_link = input(https://www.tiktok.com/@luis.rda/photo/7340654400349785376)
 
 def __send_views(__session__, __key__, link):
     # link       = "https://www.tiktok.com/@fefepixart/video/7106016809131805958"
